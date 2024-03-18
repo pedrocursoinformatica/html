@@ -2,11 +2,15 @@
 /* styles.css */
 .body{
     text-align: center;
-    background-color: #f06528
+    background-color: 	#FF0000
 
 } 
 .hex-colorido {
-    background-color: #ffff00;
-    color: #ff0000;
-   }
+background-color: #FFFF00;
+color: #FF0000
+}
+.hex-coloridonetflix {
+background-color: #000000;
+color: #FF0000
+}
    
