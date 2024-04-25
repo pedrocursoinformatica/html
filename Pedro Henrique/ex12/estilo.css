@@ -1,15 +1,10 @@
-/* styles.css */
-/* styles.css */
-
-
-   .body{
+.body{
     text-align: center;
-    background-color: 	#df5353
+    background-color: 	#ffff
 } 
 h1{
-    color:#FFFF00;
+    color:#FFFF;
     background-color: #000000 ;
-    text-align: center;
     margin-top:20px;
 }
 
@@ -40,14 +35,18 @@ margin-top:20px;
 font: 18px;
 color: #FF0000;
 }
-.hex-coloridoex6 {
-    background-color: #FFFF00;
-    color: #0000
+.hex-coloridoex12 {
+    background-color: #FF0000;
+    color: #ffff00
     text-align: center;
-     margin-top : 20px;
+     padding : 10px;
+     margin-bottom:10px;
     }
-    h2{
-        font: 20px; 
-        text-align: center;
 
-    }
+    
+
+
+    
+    
+
+    
